@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.778eeed7.css",
+    "main.js": "/home/static/js/main.0e123333.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/ganeshkaila.jpeg": "/home/static/media/ganeshkaila.f538eaf1e07a1edae47f.jpeg",
+    "static/media/vedams.png": "/home/static/media/vedams.2bd46017492fa8396e8d.png",
+    "index.html": "/home/index.html",
+    "main.778eeed7.css.map": "/home/static/css/main.778eeed7.css.map",
+    "main.0e123333.js.map": "/home/static/js/main.0e123333.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778eeed7.css",
+    "static/js/main.0e123333.js"
+  ]
+}
