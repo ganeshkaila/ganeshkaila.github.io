@@ -1,11 +1,4 @@
-import "./style.css";
-
-const app = document.querySelector<HTMLDivElement>("#app");
-if (!app) throw new Error("#app not found");
-
-const base = import.meta.env.BASE_URL;
-
-app.innerHTML = `
+import"./modulepreload-polyfill-B5Qt9EMX.js";const e=document.querySelector("#app");if(!e)throw new Error("#app not found");const a="/";e.innerHTML=`
   <a class="skip" href="#main">Skip to content</a>
   <header class="header">
     <div class="wrap header__inner">
@@ -14,7 +7,7 @@ app.innerHTML = `
         <a href="#about">About</a>
         <a href="#experience">Experience</a>
         <a href="#credentials">Credentials</a>
-        <a href="${base}blog/">Blog</a>
+        <a href="${a}blog/">Blog</a>
         <a href="#connect">Connect</a>
       </nav>
     </div>
